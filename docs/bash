@@ -142,3 +142,6 @@ git add images/pic.jpg
 git commit -m "Ensure correct filename"
 git push origin main
 
+git add docs/index.html
+git commit -m "Fix image src path"
+git push origin main
