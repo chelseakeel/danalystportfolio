@@ -30,10 +30,6 @@ git add Analyst Resume.pdf
 git commit -m "Add resume"
 git push origin main
 
-git add docs/pic.jpg
-git commit -m "Update site"
-git push -u origin main
-
 git add --all
 git commit -m "Update site"
 git push -u origin main
@@ -94,44 +90,13 @@ git add index.html
 git commit -m "Update index.html"
 git push origin main
 
-git add profile phote
-git commit -m "Add profile photo"
-git push origin main
-
 git add index.html
 git commit -m "Update profile photo"
 git push origin main
-
-git add .
-git commit -m "Added image"
-git push
-
-git add index.html
-git commit -m "Update profile photo"
-git push origin main
-
-rm docs/images
-
-git add .
-git commit -m "Add profile pic"
-git push
 
 mkdir docs/index.html/images
 
 mkdir docs/images
-
-
-git add docs/images/pic.jpg
-git commit -m "Add image folder and profile photo"
-git push
-
-git add images/pic.jpg
-git commit -m "Add image folder and profile photo"
-git push
-
-git add images/pic.jpg
-git commit -m "Add image folder and profile photo"
-git push
 
 git add docs/images/pic.jpg
 git commit -m "Add profile image to correct folder"
