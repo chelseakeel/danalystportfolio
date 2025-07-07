@@ -105,3 +105,8 @@ git push origin main
 git add danalystportfolio/docs/images/pic.jpg
 git commit -m "Add profile image to correct folder"
 git push origin main
+
+git add "../images/pic.jpg"
+git commit -m "Add profile image to correct folder"
+git push origin main
+
