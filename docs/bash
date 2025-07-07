@@ -145,3 +145,10 @@ git push origin main
 git add docs/index.html
 git commit -m "Fix image src path"
 git push origin main
+
+git add --all
+git commit -m "Update site"
+git push -u origin main
+
+
+
