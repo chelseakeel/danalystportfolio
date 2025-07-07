@@ -109,3 +109,7 @@ git push
 git add index.html
 git commit -m "Update profile photo"
 git push origin main
+
+git add .
+git commit -m "Add profile pic"
+git push
