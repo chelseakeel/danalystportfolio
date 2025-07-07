@@ -133,3 +133,7 @@ git push origin main
 git add ./danalystportfolio/docs/images/pic.jpg
 git commit -m "Ensure correct filename"
 git push origin main
+
+git add docs/images/pic.jpg
+git commit -m "Ensure correct filename"
+git push origin main
