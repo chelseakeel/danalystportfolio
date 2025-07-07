@@ -125,3 +125,7 @@ git push origin main
 git add  "docs/images/pic.jpg"
 git commit -m "Add profile image"
 git push origin main
+
+git add docs/index.html
+git commit -m "Fix image filename in HTML"
+git push origin main
