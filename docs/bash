@@ -1,4 +1,4 @@
-cd portfolio-site
+zacd portfolio-site
 git init
 git remote add origin https://github.com/chelseakeel/aanalystportfolio
 git add .
@@ -86,6 +86,7 @@ git add style.css
 git commit -m "Update style.css"
 git push origin main
 
-git add style.css
-git commit -m "Update style.css"
+git add index.html
+git commit -m "Update index.html"
 git push origin main
+
