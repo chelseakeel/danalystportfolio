@@ -6,11 +6,6 @@ margin: 0;
 padding: 0;
 }
 
-.centered-image {
-  display: block;
-  margin: 0 auto;
-}
-
 header {
 background-color: #1a1a1a;
 color: white;
@@ -42,6 +37,11 @@ margin-top: 10px;
 footer {
 background: #1a1a1a;
 color: white;
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+}
 text-align: center;
 padding: 1rem;
 margin-top: 3rem;
