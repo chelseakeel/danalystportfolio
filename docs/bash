@@ -117,3 +117,5 @@ git commit -m "Add profile pic"
 git push
 
 mkdir docs/index.html/images
+
+mkdir docs/images
