@@ -125,3 +125,7 @@ git add docs/images/pic.jpg
 git commit -m "Add image folder and profile photo"
 git push
 
+git add images/pic.jpg
+git commit -m "Add image folder and profile photo"
+git push
+
