@@ -15,5 +15,13 @@ git commit -m "Update site"
 git push origin main
 
 git add --all
+git commit -m "Update about me"
+git push -u origin main
+
+git add downloads/profile pic.jpg
 git commit -m "Update site"
 git push -u origin main
+
+git add resume.pdf
+git commit -m "Add resume"
+git push origin main
