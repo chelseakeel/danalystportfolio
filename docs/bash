@@ -41,3 +41,7 @@ git push -u origin main
 git add --all
 git commit -m "Update site"
 git push -u origin main
+
+git add --all
+git commit -m "Update color"
+git push -u origin main
