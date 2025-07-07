@@ -1,4 +1,4 @@
-zacd portfolio-site
+cd portfolio-site
 git init
 git remote add origin https://github.com/chelseakeel/aanalystportfolio
 git add .
