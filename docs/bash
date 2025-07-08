@@ -150,5 +150,8 @@ git add --all
 git commit -m "Update site"
 git push -u origin main
 
+git add style.css
+git commit -m "Update style.css"
+git push origin main
 
 
