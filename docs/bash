@@ -154,4 +154,6 @@ git add style.css
 git commit -m "Update style.css"
 git push origin main
 
-
+git add style.css
+git commit -m "Update style.css"
+git push origin main
