@@ -4,21 +4,21 @@ background-color: black;
 color: white;
 margin: 0;
 padding: 0;
-text-align: center;
+text-align: center !important;
 }
 
 header {
 background-color: #1a1a1a;
 color: white;
 padding: 2rem;
-text-align: center;
+text-align: center !important;
 }
 
 main {
 padding: 2rem;
 max-width: 1000px;
 margin: auto;
-text-align: center;
+text-align: center !important;
 }
 
 .project {
@@ -27,7 +27,7 @@ padding: 1rem;
 margin-bottom: 2rem;
 border-radius: 8px;
 box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-text-align: center;
+text-align: center !important;
 }
 
 iframe {
