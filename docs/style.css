@@ -11,7 +11,7 @@ header {
 background-color: #1a1a1a;
 color: white;
 padding: 2rem;
-text-align: center;
+text-align: center !important;
 }
 
 main {
