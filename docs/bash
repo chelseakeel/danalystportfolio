@@ -181,3 +181,7 @@ git push -u origin main
 git add website
 git commit -m "Update website link"
 git push -u origin main
+
+git add --all
+git commit -m "Update website"
+git push -u origin main
