@@ -185,3 +185,7 @@ git push -u origin main
 git add --all
 git commit -m "Update website"
 git push -u origin main
+
+git add --all
+git commit -m "Update website"
+git push -u origin main
