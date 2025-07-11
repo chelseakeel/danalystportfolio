@@ -169,3 +169,7 @@ git push origin main
 git add style.css
 git commit -m "Update style.css"
 git push origin main
+
+git add website
+git commit -m "Update website link"
+git push -u origin main
